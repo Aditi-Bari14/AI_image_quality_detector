@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# AI_image_quality_detector
+
 # VisionIQ - AI Image Quality & Defect Detection
 
 This is my submission for the IIIT Hyderabad internship technical assessment. It's a web app that takes an uploaded image and tells you whether it's blurry, too dark, too bright, noisy, or generally fine, using a mix of classic computer vision features and a trained ML model.
@@ -189,5 +190,3 @@ You can throw any of these at `/analyze` to see it work. Worth noting: running `
 
 Streamlit for the frontend, Flask + Flask-CORS for the backend, OpenCV/NumPy for the CV feature extraction, scikit-learn for the Random Forest, SQLite for storage, Docker/Compose files included but not locally verified (see above).
 =======
-# AI_image_quality_detector
->>>>>>> 6d6170e14367e4d4567ef5a86e732bed080eae4d
