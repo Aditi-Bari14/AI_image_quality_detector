@@ -188,5 +188,5 @@ You can throw any of these at `/analyze` to see it work. Worth noting: running `
 
 ## Tech stack
 
-Streamlit for the frontend, Flask + Flask-CORS for the backend, OpenCV/NumPy for the CV feature extraction, scikit-learn for the Random Forest, SQLite for storage, Docker/Compose files included but not locally verified (see above).
-=======
+Streamlit for the frontend, Flask + Flask-CORS for the backend, OpenCV/NumPy for the CV feature extraction, scikit-learn for the Random Forest, SQLite for storage, Docker/Compose files included but not locally verified. 
+
