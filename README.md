@@ -1,0 +1,1 @@
+# AI_image_quality_detector
